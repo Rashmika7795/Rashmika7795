@@ -3,7 +3,7 @@ profile page
 <h1 align="center">Hi 👋, I'm Rashmika</h1>
 <h3 align="center">A Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DhruviThakkar210&label=Profile%20views&color=0e75b6&style=flat" alt="DhruviThakkar210" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rashmika7795&label=Profile%20views&color=0e75b6&style=flat" alt="Rashmika7795" /> </p>
 
 
 
